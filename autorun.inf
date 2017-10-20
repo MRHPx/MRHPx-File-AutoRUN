@@ -1,0 +1,4 @@
+[autorun]
+open=FileAutoRUN.exe index.html
+icon=FileAutoRUN.exe
+
